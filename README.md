@@ -8,7 +8,7 @@ It groups usage by physical disk and displays it with easy-to-read bars and colo
 Most disk tools show every partition separately, which can get messy.  
 `dus` just shows what’s actually going on per drive.
 
-Got no clue what else to write here lol it's really just a simple script.
+Got no clue what else to write here lol it's really just a simple script.  
 I wanted an easy way to check disk usage in a clean way on my server, so I built this. Might be useful for others too.
 
 ## Example
